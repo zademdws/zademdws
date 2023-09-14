@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 </p>
 <hr>
 
