@@ -79,7 +79,7 @@
   </a>
 
   <a href="https://github.com/Nwerit/calculadora-simples">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=projeto-site&theme=border_radius=20"/>
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=calculadora-simples&theme=border_radius=20"/>
   </a>
 
 ## **🎮Você pode me achar:**
