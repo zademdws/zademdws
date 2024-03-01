@@ -91,6 +91,8 @@
 <a href="mailto:marcusengsoft@gmail.com">
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/marcus6609-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=white"/></p>
+
 
 **Discord**: marcus6609
 
