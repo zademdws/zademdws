@@ -94,7 +94,6 @@
 <img src="https://img.shields.io/badge/marcus6609-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=white"/></p>
 </a>
 
-
 <hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nwerit&show_icons=true&locale=en&layout=compact" alt="nwerit" />
