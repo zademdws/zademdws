@@ -91,9 +91,6 @@
 <a href="mailto:marcusengsoft@gmail.com">
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://codepen.io/">
-<img alt=codepen src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"/>
-</a>
 
 **Discord**: marcus6609
 
