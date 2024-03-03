@@ -1,5 +1,7 @@
+# Bem vindo ao meu github!!!
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem0zazZtcm85cGZjbzdxZXk5ODVxYTFqMGozaGlvMWt6emxpeWd6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"/>
+  <img src="https://www.bram.us/wordpress/wp-content/uploads/2022/03/calculate-specificity-animated-resized.gif"/>
 </p>
 
 <p align="center">
@@ -7,16 +9,13 @@
       <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://komarev.com/ghpvc/?username=nwerit&style=for-the-badge"/></a>
 </p>
 
-<p align="center">
- Olá, me chamo Marcus, sou programador e estou cursando a graduação de engenharia de software.
-</p>
-
-
 ### *🔌 Sobre mim:*
 
 * Meu nome é Marcus Vinícius, tenho 21 anos.
 * Programador Front-end.
 * Atualmente estudando JavaScript.
+
+Comecei minha carreira como UI/UX designer, então puxei certas coisas de lá, usava bastante o Figma para fazer layouts e o Photoshop para manipular imagens, desde lá me interessei bastante por programação e principalmente pela parte do front-end, desde então não parei mais de estudar e buscar conhecimento sobre a área.
 <br></br>
 
 **🎬 Skills:**
