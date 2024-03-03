@@ -11,11 +11,13 @@
  Olá, me chamo Marcus, sou programador e estou cursando a graduação de engenharia de software.
 </p>
 
+
 ### *🔌 Sobre mim:*
 
 * Meu nome é Marcus Vinícius, tenho 21 anos.
 * Programador Front-end.
 * Atualmente estudando JavaScript.
+<br></br>
 
 **🎬 Skills:**
 
@@ -34,24 +36,24 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br></br>
 
 
 **💻 Meus trabalhos mais recentes:**
 
-<div>
 <a href="https://github.com/Nwerit/projeto-site">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=projeto-site&theme=dark"/></a>
-  <a href="https://github.com/Nwerit/calculadora-simples">
+<a href="https://github.com/Nwerit/calculadora-simples">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=calculadora-simples&theme=dark"/></a>
-</div>
+<br></br>
 
 **👤 Contribuições:**
 
 <p>
-<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Nwerit&theme=dark"/>
-</p>
+<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Nwerit&theme=dark"/></p>
+<br></br>
 
-**🎮Contato:**
+**🎮 Contato:**
 
 <a href="https://www.linkedin.com/in/marcusengsoft/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
