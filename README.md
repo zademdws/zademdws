@@ -7,12 +7,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://komarev.com/ghpvc/?username=nwerit&style=for-the-badge"/></a>
 </p>
 
-
-
 <p align="center">
 💻 Olá, me chamo Marcus, sou programador e estou cursando a graduação de engenharia de software.
 </p>
-
 
 ### *🔌 Sobre mim:*
 
@@ -38,7 +35,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 **💻 Meus trabalhos mais recentes:**
 
 <div>
@@ -49,6 +45,7 @@
 </div>
 
 **👤 Contribuições:**
+
 <p>
 <img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Nwerit&theme=dark"/>
 </p>
