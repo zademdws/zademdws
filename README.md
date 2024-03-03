@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/marcusengsoft/">
-      <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://komarev.com/ghpvc/?username=nwerit&style=for-the-badge"/></a>
+      <img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logoColor=white&logo=linkedin"/><img src="https://komarev.com/ghpvc/?username=nwerit&style=for-the-badge&color=151515&logoColor=white&logo=undefined"/></a>
 </p>
 
 ### *🔌 Sobre mim:*
@@ -55,6 +55,6 @@ Comecei minha carreira como UI/UX designer, então puxei certas coisas de lá, u
 **🎮 Contato:**
 
 <a href="https://www.linkedin.com/in/marcusengsoft/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
 <a href="mailto:marcusengsoft@gmail.com">
-<img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img alt=gmail src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=151515"/></a>
