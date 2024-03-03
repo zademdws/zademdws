@@ -57,4 +57,4 @@ Comecei minha carreira como UI/UX designer, então puxei certas coisas de lá, u
 <a href="https://www.linkedin.com/in/marcusengsoft/">
 <img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
 <a href="mailto:marcusengsoft@gmail.com">
-<img alt=gmail src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=151515"/></a>
+<img alt=gmail src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=white"/></a>
