@@ -22,7 +22,7 @@
 **🎬 Skills:**
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nwerit&theme=dark&show_icons=true&locale=en&layout=compact" alt="Nwerit" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zademdws&theme=dark&show_icons=true&locale=en&layout=compact" alt="Nwerit" />
 </p>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,15 +42,15 @@
 **💻 Meus trabalhos mais recentes:**
 
 <a href="https://github.com/Nwerit/projeto-site">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=projeto-site&theme=dark"/></a>
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=zademdws&repo=projeto-site&theme=dark"/></a>
 <a href="https://github.com/Nwerit/calculadora-simples">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=calculadora-simples&theme=dark"/></a>
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=zademdws&repo=calculadora-simples&theme=dark"/></a>
 <br></br>
 
 **👤 Contribuições:**
 
 <p>
-<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Nwerit&theme=dark"/></p>
+<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=zademdws&theme=dark"/></p>
 
 
 **🎮 Contato:**
