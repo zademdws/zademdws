@@ -51,7 +51,7 @@
 
 <p>
 <img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Nwerit&theme=dark"/></p>
-<br></br>
+
 
 **🎮 Contato:**
 
