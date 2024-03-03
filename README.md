@@ -88,7 +88,7 @@
 
 <hr>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nwerit&show_icons=true&locale=en&layout=compact" alt="Nwerit" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nwerit&show_icons=true&locale=en&layout=compact&theme-dark" alt="Nwerit" />
 </p>
 
 <p align="center">
