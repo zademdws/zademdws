@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-💻 Olá, me chamo Marcus, sou programador e estou cursando a graduação de engenharia de software.
+ Olá, me chamo Marcus, sou programador e estou cursando a graduação de engenharia de software.
 </p>
 
 ### *🔌 Sobre mim:*
@@ -17,7 +17,7 @@
 * Programador Front-end.
 * Atualmente estudando JavaScript.
 
-**🔧 Skills:**
+**🎬 Skills:**
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nwerit&theme=dark&show_icons=true&locale=en&layout=compact" alt="Nwerit" />
