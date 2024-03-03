@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem0zazZtcm85cGZjbzdxZXk5ODVxYTFqMGozaGlvMWt6emxpeWd6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"/>
 </p>
-<hr>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/marcusengsoft/">
-    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    <img src="https://komarev.com/ghpvc/?username=nwerit&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://komarev.com/ghpvc/?username=nwerit&style=for-the-badge"/></a>
 </p>
 
 
@@ -17,9 +15,9 @@
 
 
 ## **🍣 Sobre mim:**
-* Meu nome é Marcus Vinícius, tenho 20 anos
-* Programador Full-Stack
-* Atualmente estudando Python
+* Meu nome é Marcus Vinícius, tenho 21 anos
+* Programador Front-end
+* Atualmente JavaScript
 
 ## **💬 Skills:**
 <details>
@@ -65,25 +63,21 @@
 
 ## **🎲 Meus trabalhos mais recentes:**
 
+<div>
 <a href="https://github.com/Nwerit/projeto-site">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=projeto-site&theme=black"/>
-  </a>
-
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=projeto-site&theme=dark"/></a>
   <a href="https://github.com/Nwerit/calculadora-simples">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=calculadora-simples&theme=black"/>
-  </a>
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=calculadora-simples&theme=dark"/></a>
+</div>
 
 ## **🎮Você pode me achar:**
 *Clique na imagem pra ser redirecionado*
 
 <a href="https://www.linkedin.com/in/marcusengsoft/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:marcusengsoft@gmail.com">
-<img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/marcus6609-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=white"/></p>
-</a>
+<img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/marcus6609-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=white"/></a>
 
 <hr>
 <p align="center">
