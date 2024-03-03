@@ -14,54 +14,33 @@
 </p>
 
 
-## **🍣 Sobre mim:**
+### *🔌 Sobre mim:*
+
 * Meu nome é Marcus Vinícius, tenho 21 anos
 * Programador Front-end
 * Atualmente JavaScript
 
-## **💬 Skills:**
-<details>
-  <summary>Linguagens</summary>
+**🔧 Skills:**
+
  
- > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-</details>
-
-<details>
-  <summary>Frameworks e Blibiotecas</summary>
-  
-> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-
-</details>
-
-
-<details>
-  <summary>Design</summary>
-  
-> ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-</details>
-
-<details>
-  <summary>Versão</summary>
-  
-> ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</details>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<details>
-  <summary>Outros</summary>
-  
-> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</details>
 
-## **🎲 Meus trabalhos mais recentes:**
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nwerit&theme=dark&show_icons=true&locale=en&layout=compact" alt="Nwerit" />
+</p>
+
+**💻 Meus trabalhos mais recentes:**
 
 <div>
 <a href="https://github.com/Nwerit/projeto-site">
@@ -70,20 +49,14 @@
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=calculadora-simples&theme=dark"/></a>
 </div>
 
-## **🎮Você pode me achar:**
-*Clique na imagem pra ser redirecionado*
+
+<p>
+<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Nwerit&theme=dark"/>
+</p>
+
+**🎮Contato:**
 
 <a href="https://www.linkedin.com/in/marcusengsoft/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:marcusengsoft@gmail.com">
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/marcus6609-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=white"/></a>
-
-<hr>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nwerit&theme=dark&show_icons=true&locale=en&layout=compact" alt="Nwerit" />
-</p>
-
-<p align="center">
-<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Nwerit&theme=dark"/>
-</p>
