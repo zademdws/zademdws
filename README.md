@@ -46,7 +46,7 @@ Comecei minha carreira como UI/UX designer, então puxei certas coisas de lá, u
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=zademdws&repo=calculadora-simples&theme=dark"/></a>
 <br></br>
 
-**👤 Contribuições:**
+**👤 Status:**
 
 <p>
 <img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=zademdws&theme=dark"/></p>
