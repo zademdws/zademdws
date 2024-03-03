@@ -48,7 +48,7 @@
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=calculadora-simples&theme=dark"/></a>
 </div>
 
-
+**👤 Contribuições:**
 <p>
 <img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Nwerit&theme=dark"/>
 </p>
