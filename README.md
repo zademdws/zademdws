@@ -11,9 +11,9 @@
 
 ### *🔌 Sobre mim:*
 
-- Meu nome é Marcus Vinícius, tenho 21 anos.
-- Programador Front-end.
-- Atualmente estudando JavaScript.
+* Meu nome é Marcus Vinícius, tenho 21 anos.
+* Programador Front-end.
+* Atualmente estudando JavaScript.
 
 Comecei minha carreira como UI/UX designer, então puxei certas coisas de lá, usava bastante o Figma para fazer layouts e o Photoshop para manipular imagens, desde lá me interessei bastante por programação e principalmente pela parte do front-end, desde então não parei mais de estudar e buscar conhecimento sobre a área.
 <br></br>
