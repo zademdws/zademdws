@@ -38,7 +38,7 @@ Comecei minha carreira como UI/UX designer, então puxei certas coisas de lá, u
 <br></br>
 
 
-**💻 Meus trabalhos mais recentes:**
+**💻 Meus melhores trabalhos:**
 
 <a href="https://github.com/Nwerit/projeto-site">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=zademdws&repo=projeto-site&theme=dark"/></a>
