@@ -6,7 +6,6 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/marcusengsoft/">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
     <img src="https://komarev.com/ghpvc/?username=nwerit&style=for-the-badge"/>
 </p>
 
@@ -67,11 +66,11 @@
 ## **🎲 Meus trabalhos mais recentes:**
 
 <a href="https://github.com/Nwerit/projeto-site">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=projeto-site&theme=border_radius=20"/>
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=projeto-site&theme=black"/>
   </a>
 
   <a href="https://github.com/Nwerit/calculadora-simples">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=calculadora-simples&theme=border_radius=20"/>
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=nwerit&repo=calculadora-simples&theme=black"/>
   </a>
 
 ## **🎮Você pode me achar:**
