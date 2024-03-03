@@ -92,5 +92,5 @@
 </p>
 
 <p align="center">
-<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Nwerit"/>
+<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=Nwerit&theme=dark"/>
 </p>
