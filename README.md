@@ -1,4 +1,4 @@
-# Bem vindo ao meu github!!!
+# Olá e bem vindo!!!
 
 <p align="center">
   <img src="https://www.bram.us/wordpress/wp-content/uploads/2022/03/calculate-specificity-animated-resized.gif"/>
@@ -12,16 +12,12 @@
 ### *🔌 Sobre mim:*
 
 * Meu nome é Marcus Vinícius, tenho 23 anos.
-* Estudante de programacao.
+* Estudante de programação.
 
 Comecei minha carreira como UI/UX designer, então puxei certas coisas de lá, usava bastante o Figma para fazer layouts e o Photoshop para manipular imagens, desde lá me interessei bastante por programação e principalmente pela parte do front-end, desde então não parei mais de estudar e buscar conhecimento sobre a área.
 <br></br>
 
 **🎬 Skills:**
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zademdws&theme=dark&show_icons=true&locale=en&layout=compact" alt="Nwerit" />
-</p>
 
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
