@@ -2,7 +2,7 @@
 ![Zade](/images/zadeBanner.png)
 
 <div align = "center">
-<img src = "https://i.pinimg.com/originals/21/b5/51/21b5514c1341b37076fb27169a2aa8f8.gif" width = 500; height = 200>
+<img src = "https://i.pinimg.com/originals/af/66/6e/af666eba1e8c6382da2283efb9f6f42d.gif" width = 500 height = 230>
 </div>
 
 ### Sobre mim:
