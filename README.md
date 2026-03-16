@@ -19,6 +19,13 @@
 ![Static Badge](https://img.shields.io/badge/Mysql-%234479A1?style=for-the-badge&logo=Mysql&logoColor=%23FFFFFF&logoSize=auto)
 
 #
+<br>
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zademdws&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+#
 
 
 #### **Contato:**
