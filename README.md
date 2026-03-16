@@ -3,22 +3,33 @@
 
 ![Zade](/images/zadeBanner.png)
 
-### *Sobre mim:*
+### Sobre mim:
 
 * Meu nome é Marcus Vinícius, tenho 23 anos.
 * Estudante de programação, cursando ADS.
-<br></br>
-# **Tech Skills**
 
-![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+## **Tech Skills**
+![Static Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=%23FFFFFF&logoSize=auto)
 
-## *Studying:*
+###  **Studying:**
 
-<br></br>
+![Static Badge](https://img.shields.io/badge/Spring-%23%236DB33F?style=for-the-badge&logo=Spring&logoColor=%23FFFFFF&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=Git&logoColor=%23FFFFFF&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Angular-%230F0F11?style=for-the-badge&logo=Angular&logoColor=%23FFFFFF&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Mysql-%234479A1?style=for-the-badge&logo=Mysql&logoColor=%23FFFFFF&logoSize=auto)
 
-**Contato:**
+#
+
+
+#### **Contact:**
+
+
 
 <a href="https://www.linkedin.com/in/marcusengsoft/">
-<img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
+<img src="https://img.shields.io/badge/LINKEDIN-%231578D3?style=flat-square&logoColor=%23FFFFFF&logoSize=auto"/></a>
 <a href="mailto:marcusengsoft@gmail.com">
-<img alt=gmail src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img alt=gmail src="https://img.shields.io/badge/GMAIL-%23EA4335?style=flat-square&logo=gmail&logoColor=%23FFFFFF&logoSize=auto"/></a>
+
+<br>
+
+![ZadeBottom](images/zadebottombanner.png)
