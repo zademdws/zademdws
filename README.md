@@ -11,7 +11,7 @@
 ## **Tech Skills**
 ![Static Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=%23FFFFFF&logoSize=auto)
 
-###  **Studying:**
+###  **Estudando:**
 
 ![Static Badge](https://img.shields.io/badge/Spring-%23%236DB33F?style=for-the-badge&logo=Spring&logoColor=%23FFFFFF&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=Git&logoColor=%23FFFFFF&logoSize=auto)
@@ -21,7 +21,7 @@
 #
 
 
-#### **Contact:**
+#### **Contato:**
 
 
 
