@@ -23,10 +23,6 @@
 
 #### **Contato:**
 
-
-
-<a href="https://www.linkedin.com/in/marcusengsoft/">
-<img src="https://img.shields.io/badge/LINKEDIN-%231578D3?style=flat-square&logoColor=%23FFFFFF&logoSize=auto"/></a>
 <a href="mailto:marcusengsoft@gmail.com">
 <img alt=gmail src="https://img.shields.io/badge/GMAIL-%23EA4335?style=flat-square&logo=gmail&logoColor=%23FFFFFF&logoSize=auto"/></a>
 
