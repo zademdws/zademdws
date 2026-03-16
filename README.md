@@ -5,7 +5,7 @@
 
 ### Sobre mim:
 
-Olá! ⌨️ Estou aprendendo Java e explorando os fundamentos do desenvolvimento de software. Cada dia é um novo desafio e uma nova lição. Aceito dicas, feedback e colaboração!
+Olá! ◼️ Estou aprendendo Java e explorando os fundamentos do desenvolvimento de software. Cada dia é um novo desafio e uma nova lição. Aceito dicas, feedback e colaboração!
 
 * Meu nome é Marcus Vinícius, tenho 23 anos.
 * Estudante de programação, cursando ADS.
