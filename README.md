@@ -25,16 +25,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zademdws&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-#
-
-
-### **Contato:**
-
-<a href="mailto:marcusengsoft@gmail.com">
-<img alt=gmail src="https://img.shields.io/badge/GMAIL-%23EA4335?style=flat-square&logo=gmail&logoColor=%23FFFFFF&logoSize=auto"/></a>
-
 <br>
-<br>
-<br>
+
+
+
+
+
 
 ![ZadeBottom](images/zadebottombanner.png)
