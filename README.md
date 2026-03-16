@@ -1,7 +1,9 @@
-<p align="center">
-</p>
 
 ![Zade](/images/zadeBanner.png)
+
+<div align = "center">
+<img src = "https://i.pinimg.com/originals/af/66/6e/af666eba1e8c6382da2283efb9f6f42d.gif" width = 1000>
+</div>
 
 ### Sobre mim:
 
