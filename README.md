@@ -13,7 +13,6 @@ Olá! ᛝ Estou aprendendo Java e explorando os fundamentos do desenvolvimento d
 * Estudante de programação, cursando ADS.
 
 ## **Tech Skills**
-![Static Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=%23FFFFFF&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/java-%23FF9A54?style=for-the-badge&logo=openjdk)
 
 ###  **Estudando:**
